@@ -1,1 +1,1 @@
-g++ main.cpp -g -Wall -o debug.out 
+g++ main.cpp -g -Wall -std=c++17 -o debug.out 

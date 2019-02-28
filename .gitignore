@@ -1,3 +1,5 @@
 run.out
 debug.out
 .vscode
+*.out
+*-out.txt
